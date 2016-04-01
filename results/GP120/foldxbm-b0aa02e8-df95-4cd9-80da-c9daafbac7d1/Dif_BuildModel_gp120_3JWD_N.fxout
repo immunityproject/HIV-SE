@@ -1,0 +1,14 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: gp120_3JWD_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+gp120_3JWD_N_1_0.pdb	2.11	0.72	2.25	1.88	-0.06	-1.89	2.27	0.06	-2.64	-0.43	0.00	0.00	0.00	0.04	-0.67	-0.10	0.00	0.00	-0.00	0.00	0.00	0.00
+gp120_3JWD_N_1_1.pdb	1.67	0.26	1.80	1.69	-0.07	-1.90	1.99	1.07	-2.68	-0.38	0.00	0.00	0.00	-0.01	-0.57	-0.10	0.00	0.00	-0.00	0.00	0.00	0.00
+gp120_3JWD_N_1_2.pdb	2.21	0.88	2.41	1.98	-0.08	-2.05	2.39	0.05	-2.82	-0.45	0.00	0.00	0.00	0.02	-0.68	-0.11	0.00	0.00	-0.00	0.00	0.00	0.00
+gp120_3JWD_N_1_3.pdb	2.09	0.74	2.25	1.95	-0.12	-1.97	2.35	0.06	-2.60	-0.42	0.00	0.00	0.00	0.04	-0.75	-0.17	0.00	0.00	-0.01	0.00	0.00	0.00
+gp120_3JWD_N_1_4.pdb	1.82	0.27	1.81	1.67	-0.06	-1.75	1.98	1.03	-2.66	-0.38	0.00	0.00	0.00	0.02	-0.57	-0.10	0.00	0.00	-0.00	0.00	0.00	0.00

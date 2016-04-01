@@ -1,0 +1,14 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: p24_Hexa_3H4E_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+p24_Hexa_3H4E_N_1_0.pdb	19.17	0.11	-0.00	4.89	0.00	-0.87	9.81	5.03	-3.84	1.44	0.00	0.00	0.00	2.60	-1.00	0.00	0.00	0.00	-0.00	0.00	0.00	0.00
+p24_Hexa_3H4E_N_1_1.pdb	20.19	0.23	0.00	4.96	0.01	-0.97	9.93	5.67	-3.91	1.75	0.00	0.00	0.00	2.51	-0.92	0.00	0.00	0.00	-0.00	0.00	0.00	0.00
+p24_Hexa_3H4E_N_1_2.pdb	19.36	-0.40	-0.57	4.91	-0.01	-0.08	10.49	5.28	-3.97	1.47	0.00	0.00	0.00	2.24	-0.74	-0.00	0.00	0.00	-0.00	0.00	0.00	0.00
+p24_Hexa_3H4E_N_1_3.pdb	20.71	-0.14	-0.57	5.06	0.00	-0.57	10.44	5.87	-3.87	1.78	0.00	0.00	0.00	2.72	-1.15	-0.00	0.00	0.00	-0.00	0.00	0.00	0.00
+p24_Hexa_3H4E_N_1_4.pdb	19.96	-0.29	-0.53	4.89	0.00	-0.28	10.33	5.14	-3.97	1.78	0.00	0.00	0.00	2.89	-0.69	-0.00	0.00	0.00	-0.00	0.00	0.00	0.00

@@ -1,0 +1,20 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: p24_Hexa_3H4E_N.pdb
+Output type: BuildModel
+BuildModel Results Files
+Residue to Mutate HISA84 has residue index 83
+Residue to Mutate HISB84 has residue index 303
+Residue to Mutate HISC84 has residue index 522
+Residue to Mutate HISD84 has residue index 741
+Residue to Mutate HISE84 has residue index 960
+Residue to Mutate HISF84 has residue index 1179
+
+The Stability of each mutant and their relative wild-type are in Raw_BuildModel_p24_Hexa_3H4E_N.fxout
+The differences in stability (DDG=DGmutant-DGwt) of each mutant are in Dif_BuildModel_p24_Hexa_3H4E_N.fxout
+The average of the differences in stability (DDG=DGmutant-DGwt) of each mutant for the 5 runs are in Average_BuildModel_p24_Hexa_3H4E_N.fxout
+The list of all generated pdbs is in PdbList_BuildModel_p24_Hexa_3H4E_N.fxout

@@ -1,0 +1,20 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: p24_Hexa_3H4E_N.pdb
+Output type: BuildModel
+BuildModel Results Files
+Residue to Mutate LYSA158 has residue index 157
+Residue to Mutate LYSB158 has residue index 377
+Residue to Mutate LYSC158 has residue index 596
+Residue to Mutate LYSD158 has residue index 815
+Residue to Mutate LYSE158 has residue index 1034
+Residue to Mutate LYSF158 has residue index 1253
+
+The Stability of each mutant and their relative wild-type are in Raw_BuildModel_p24_Hexa_3H4E_N.fxout
+The differences in stability (DDG=DGmutant-DGwt) of each mutant are in Dif_BuildModel_p24_Hexa_3H4E_N.fxout
+The average of the differences in stability (DDG=DGmutant-DGwt) of each mutant for the 5 runs are in Average_BuildModel_p24_Hexa_3H4E_N.fxout
+The list of all generated pdbs is in PdbList_BuildModel_p24_Hexa_3H4E_N.fxout

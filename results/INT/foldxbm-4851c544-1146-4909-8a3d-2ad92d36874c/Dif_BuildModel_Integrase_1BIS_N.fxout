@@ -1,0 +1,14 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: Integrase_1BIS_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+Integrase_1BIS_N_1_0.pdb	28.57	3.08	3.43	-2.24	0.24	-0.05	-4.87	23.46	0.19	0.99	0.00	0.00	0.00	4.26	1.27	0.10	0.00	0.00	-0.00	0.00	-0.01	0.00
+Integrase_1BIS_N_1_1.pdb	24.91	2.97	3.15	-2.13	0.24	-0.12	-4.68	21.83	0.21	1.05	0.00	0.00	0.00	2.33	1.22	0.08	0.00	0.00	-0.00	0.00	-0.02	0.00
+Integrase_1BIS_N_1_2.pdb	27.24	2.96	3.32	-2.13	0.24	-0.02	-4.66	24.31	0.18	0.99	0.00	0.00	0.00	1.99	1.17	0.08	0.00	0.00	0.00	0.00	-0.02	0.00
+Integrase_1BIS_N_1_3.pdb	24.36	3.02	3.30	-2.05	0.25	-0.06	-4.53	19.77	0.19	0.96	0.00	0.00	0.00	3.46	1.05	0.08	0.00	0.00	0.00	0.00	-0.02	0.00
+Integrase_1BIS_N_1_4.pdb	25.21	2.94	3.13	-2.08	0.31	0.02	-4.56	20.68	0.19	0.96	0.00	0.00	0.00	3.55	1.07	0.07	0.00	0.00	-0.00	0.00	-0.01	0.00

@@ -1,0 +1,20 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: p24_Hexa_3H4E_N.pdb
+Output type: BuildModel
+BuildModel Results Files
+Residue to Mutate THRA48 has residue index 47
+Residue to Mutate THRB48 has residue index 267
+Residue to Mutate THRC48 has residue index 486
+Residue to Mutate THRD48 has residue index 705
+Residue to Mutate THRE48 has residue index 924
+Residue to Mutate THRF48 has residue index 1143
+
+The Stability of each mutant and their relative wild-type are in Raw_BuildModel_p24_Hexa_3H4E_N.fxout
+The differences in stability (DDG=DGmutant-DGwt) of each mutant are in Dif_BuildModel_p24_Hexa_3H4E_N.fxout
+The average of the differences in stability (DDG=DGmutant-DGwt) of each mutant for the 5 runs are in Average_BuildModel_p24_Hexa_3H4E_N.fxout
+The list of all generated pdbs is in PdbList_BuildModel_p24_Hexa_3H4E_N.fxout

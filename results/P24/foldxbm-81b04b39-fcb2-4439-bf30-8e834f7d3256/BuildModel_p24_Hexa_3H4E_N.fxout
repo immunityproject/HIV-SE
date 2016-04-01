@@ -1,0 +1,20 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: p24_Hexa_3H4E_N.pdb
+Output type: BuildModel
+BuildModel Results Files
+Residue to Mutate ALAA209 has residue index 208
+Residue to Mutate ALAB209 has residue index 428
+Residue to Mutate ALAC209 has residue index 647
+Residue to Mutate ALAD209 has residue index 866
+Residue to Mutate ALAE209 has residue index 1085
+Residue to Mutate ALAF209 has residue index 1304
+
+The Stability of each mutant and their relative wild-type are in Raw_BuildModel_p24_Hexa_3H4E_N.fxout
+The differences in stability (DDG=DGmutant-DGwt) of each mutant are in Dif_BuildModel_p24_Hexa_3H4E_N.fxout
+The average of the differences in stability (DDG=DGmutant-DGwt) of each mutant for the 5 runs are in Average_BuildModel_p24_Hexa_3H4E_N.fxout
+The list of all generated pdbs is in PdbList_BuildModel_p24_Hexa_3H4E_N.fxout

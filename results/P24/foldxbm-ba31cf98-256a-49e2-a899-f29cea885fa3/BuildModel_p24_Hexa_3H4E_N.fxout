@@ -1,0 +1,20 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: p24_Hexa_3H4E_N.pdb
+Output type: BuildModel
+BuildModel Results Files
+Residue to Mutate ILEA153 has residue index 152
+Residue to Mutate ILEB153 has residue index 372
+Residue to Mutate ILEC153 has residue index 591
+Residue to Mutate ILED153 has residue index 810
+Residue to Mutate ILEE153 has residue index 1029
+Residue to Mutate ILEF153 has residue index 1248
+
+The Stability of each mutant and their relative wild-type are in Raw_BuildModel_p24_Hexa_3H4E_N.fxout
+The differences in stability (DDG=DGmutant-DGwt) of each mutant are in Dif_BuildModel_p24_Hexa_3H4E_N.fxout
+The average of the differences in stability (DDG=DGmutant-DGwt) of each mutant for the 5 runs are in Average_BuildModel_p24_Hexa_3H4E_N.fxout
+The list of all generated pdbs is in PdbList_BuildModel_p24_Hexa_3H4E_N.fxout

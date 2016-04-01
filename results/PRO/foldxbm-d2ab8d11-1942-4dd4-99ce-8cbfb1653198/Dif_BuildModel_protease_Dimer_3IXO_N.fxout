@@ -1,0 +1,14 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: protease_Dimer_3IXO_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+protease_Dimer_3IXO_N_1_0.pdb	57.78	-0.07	-0.16	-4.48	0.14	5.64	-8.34	60.06	2.13	1.66	0.00	0.00	0.00	1.21	1.25	0.00	0.00	0.00	-0.00	0.00	0.00	0.00
+protease_Dimer_3IXO_N_1_1.pdb	58.86	-0.07	-0.14	-4.39	0.15	5.58	-8.19	60.79	2.11	1.66	0.00	0.00	0.00	1.36	1.20	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+protease_Dimer_3IXO_N_1_2.pdb	59.30	-0.07	-0.16	-4.50	0.16	5.89	-8.23	60.04	2.12	1.66	0.00	0.00	0.00	2.40	1.32	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+protease_Dimer_3IXO_N_1_3.pdb	57.91	-0.07	-0.15	-4.53	0.14	5.61	-8.44	60.00	2.14	1.66	0.00	0.00	0.00	1.55	1.25	0.00	0.00	0.00	-0.00	0.00	0.00	0.00
+protease_Dimer_3IXO_N_1_4.pdb	58.85	-0.07	-0.14	-4.39	0.15	5.54	-8.18	60.79	2.12	1.66	0.00	0.00	0.00	1.37	1.20	0.00	0.00	0.00	0.00	0.00	0.00	0.00

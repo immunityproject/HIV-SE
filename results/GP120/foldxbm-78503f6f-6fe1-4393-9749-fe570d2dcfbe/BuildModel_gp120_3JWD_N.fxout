@@ -1,0 +1,16 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: gp120_3JWD_N.pdb
+Output type: BuildModel
+BuildModel Results Files
+Residue to Mutate ARGA335 has residue index 304
+Residue to Mutate ARGB335 has residue index 959
+
+The Stability of each mutant and their relative wild-type are in Raw_BuildModel_gp120_3JWD_N.fxout
+The differences in stability (DDG=DGmutant-DGwt) of each mutant are in Dif_BuildModel_gp120_3JWD_N.fxout
+The average of the differences in stability (DDG=DGmutant-DGwt) of each mutant for the 5 runs are in Average_BuildModel_gp120_3JWD_N.fxout
+The list of all generated pdbs is in PdbList_BuildModel_gp120_3JWD_N.fxout

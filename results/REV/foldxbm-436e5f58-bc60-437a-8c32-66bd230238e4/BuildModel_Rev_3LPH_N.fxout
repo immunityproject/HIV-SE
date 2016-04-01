@@ -1,0 +1,18 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: Rev_3LPH_N.pdb
+Output type: BuildModel
+BuildModel Results Files
+Residue to Mutate SERA61 has residue index 52
+Residue to Mutate SERB61 has residue index 114
+Residue to Mutate SERC61 has residue index 169
+Residue to Mutate SERD61 has residue index 226
+
+The Stability of each mutant and their relative wild-type are in Raw_BuildModel_Rev_3LPH_N.fxout
+The differences in stability (DDG=DGmutant-DGwt) of each mutant are in Dif_BuildModel_Rev_3LPH_N.fxout
+The average of the differences in stability (DDG=DGmutant-DGwt) of each mutant for the 5 runs are in Average_BuildModel_Rev_3LPH_N.fxout
+The list of all generated pdbs is in PdbList_BuildModel_Rev_3LPH_N.fxout

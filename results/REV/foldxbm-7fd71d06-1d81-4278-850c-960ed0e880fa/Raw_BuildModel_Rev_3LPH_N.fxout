@@ -1,0 +1,19 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: Rev_3LPH_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+Rev_3LPH_N_1_0.pdb	-38.97	-222.36	-90.61	-261.58	-5.18	358.22	-318.68	8.98	167.81	313.48	0.00	0.00	0.00	10.11	239.58	0.19	0.00	0.00	0.27	0.00	0.37	0.00
+Rev_3LPH_N_1_1.pdb	-38.08	-222.31	-90.40	-261.50	-5.04	358.52	-318.54	9.18	167.57	313.47	0.00	0.00	0.00	10.13	239.58	0.19	0.00	0.00	0.27	0.00	0.37	0.00
+Rev_3LPH_N_1_2.pdb	-37.80	-221.82	-90.11	-262.01	-5.22	359.23	-319.39	9.19	168.02	313.48	0.00	0.00	0.00	10.00	239.62	0.19	0.00	0.00	0.27	0.00	0.38	0.00
+Rev_3LPH_N_1_3.pdb	-38.15	-222.01	-90.19	-261.71	-5.26	358.67	-318.90	8.97	167.78	313.48	0.00	0.00	0.00	10.18	239.60	0.19	0.00	0.00	0.28	0.00	0.38	0.00
+Rev_3LPH_N_1_4.pdb	-37.73	-222.19	-90.36	-261.61	-5.16	358.96	-318.78	9.25	167.70	313.48	0.00	0.00	0.00	10.13	239.56	0.19	0.00	0.00	0.28	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_0.pdb	-34.12	-222.82	-94.17	-258.85	-4.95	357.41	-312.69	8.80	168.12	314.37	0.00	0.00	0.00	9.83	238.59	0.17	0.00	0.00	0.29	0.00	0.37	0.00
+WT_Rev_3LPH_N_1_1.pdb	-33.39	-222.44	-93.68	-258.94	-4.96	357.92	-312.91	8.74	167.84	314.37	0.00	0.00	0.00	9.86	238.54	0.17	0.00	0.00	0.28	0.00	0.37	0.00
+WT_Rev_3LPH_N_1_2.pdb	-33.15	-222.42	-93.37	-258.89	-4.98	357.94	-312.87	8.71	167.68	314.36	0.00	0.00	0.00	9.84	238.47	0.19	0.00	0.00	0.28	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_3.pdb	-33.36	-222.54	-92.79	-258.82	-4.97	357.67	-312.79	8.74	167.07	314.36	0.00	0.00	0.00	9.85	238.45	0.17	0.00	0.00	0.29	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_4.pdb	-33.48	-222.25	-94.51	-258.75	-5.00	357.91	-312.61	8.75	167.88	314.33	0.00	0.00	0.00	9.82	238.34	0.18	0.00	0.00	0.38	0.00	0.38	0.00

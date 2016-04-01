@@ -1,0 +1,19 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: Rev_3LPH_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+Rev_3LPH_N_1_0.pdb	-8.05	-224.78	-96.45	-265.99	-4.64	369.04	-323.33	36.24	173.99	315.45	0.00	0.00	0.00	11.52	240.56	0.03	0.00	0.00	0.48	0.00	0.38	0.00
+Rev_3LPH_N_1_1.pdb	-9.05	-222.53	-93.59	-265.85	-4.57	368.47	-323.32	31.17	173.83	315.32	0.00	0.00	0.00	10.64	240.19	0.58	0.00	0.00	0.43	0.00	0.38	0.00
+Rev_3LPH_N_1_2.pdb	-9.86	-224.14	-95.55	-265.79	-4.04	368.16	-323.25	33.65	174.09	315.42	0.00	0.00	0.00	10.89	240.42	-0.10	0.00	0.00	0.44	0.00	0.38	0.00
+Rev_3LPH_N_1_3.pdb	-8.29	-222.75	-93.83	-265.77	-4.01	368.13	-323.31	31.40	174.04	315.34	0.00	0.00	0.00	11.21	240.13	0.43	0.00	0.00	0.46	0.00	0.38	0.00
+Rev_3LPH_N_1_4.pdb	-6.16	-222.53	-94.02	-265.71	-4.57	369.01	-323.07	32.58	173.82	315.32	0.00	0.00	0.00	11.76	240.23	0.48	0.00	0.00	0.39	0.00	0.37	0.00
+WT_Rev_3LPH_N_1_0.pdb	-35.35	-221.85	-92.79	-259.02	-5.09	355.68	-313.44	9.04	167.30	314.26	0.00	0.00	0.00	9.72	238.49	0.19	0.00	0.00	0.26	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_1.pdb	-35.24	-221.75	-92.69	-258.84	-5.05	355.76	-313.30	8.87	167.09	314.22	0.00	0.00	0.00	9.67	238.32	0.15	0.00	0.00	0.25	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_2.pdb	-35.05	-222.43	-93.37	-258.90	-5.06	356.21	-313.05	8.91	167.72	314.34	0.00	0.00	0.00	9.77	238.46	0.15	0.00	0.00	0.28	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_3.pdb	-35.42	-221.75	-93.05	-258.86	-4.96	355.47	-313.27	9.02	167.22	314.22	0.00	0.00	0.00	9.76	238.36	0.14	0.00	0.00	0.27	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_4.pdb	-35.02	-221.88	-93.19	-259.28	-5.47	356.61	-313.67	9.79	167.21	314.32	0.00	0.00	0.00	9.75	238.46	0.13	0.00	0.00	0.30	0.00	0.38	0.00

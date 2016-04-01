@@ -1,0 +1,19 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: Rev_3LPH_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+Rev_3LPH_N_1_0.pdb	-34.96	-222.04	-86.10	-256.01	-3.68	352.47	-311.37	8.71	160.05	312.40	0.00	0.00	0.00	9.80	237.22	0.21	0.00	0.00	0.23	0.00	0.38	0.00
+Rev_3LPH_N_1_1.pdb	-35.15	-223.32	-87.24	-256.56	-3.58	353.34	-311.73	9.18	161.49	312.40	0.00	0.00	0.00	9.73	237.73	0.51	0.00	0.00	0.25	0.00	0.38	0.00
+Rev_3LPH_N_1_2.pdb	-35.37	-222.42	-86.52	-256.29	-3.77	352.76	-311.67	8.72	160.56	312.40	0.00	0.00	0.00	9.96	237.66	0.29	0.00	0.00	0.22	0.00	0.38	0.00
+Rev_3LPH_N_1_3.pdb	-34.99	-221.74	-85.62	-255.67	-3.98	351.81	-311.16	8.77	159.67	312.40	0.00	0.00	0.00	9.73	237.03	0.19	0.00	0.00	0.23	0.00	0.38	0.00
+Rev_3LPH_N_1_4.pdb	-35.24	-222.93	-87.04	-256.32	-3.72	353.04	-311.64	8.95	161.23	312.40	0.00	0.00	0.00	9.77	237.47	0.41	0.00	0.00	0.23	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_0.pdb	-33.39	-222.33	-92.56	-258.30	-5.21	357.15	-312.50	8.77	166.54	314.36	0.00	0.00	0.00	9.88	238.29	0.16	0.00	0.00	0.25	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_1.pdb	-32.73	-222.31	-92.43	-258.25	-5.14	357.52	-312.36	8.77	166.40	314.36	0.00	0.00	0.00	9.89	238.27	0.18	0.00	0.00	0.25	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_2.pdb	-33.66	-222.59	-93.48	-258.52	-5.23	357.71	-312.64	8.75	167.01	314.36	0.00	0.00	0.00	10.17	238.47	0.17	0.00	0.00	0.25	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_3.pdb	-33.05	-222.39	-92.36	-258.14	-5.09	357.15	-312.40	8.73	166.41	314.36	0.00	0.00	0.00	9.91	238.35	0.15	0.00	0.00	0.24	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_4.pdb	-33.77	-223.84	-92.16	-258.43	-4.96	357.22	-312.78	8.96	167.00	314.36	0.00	0.00	0.00	9.83	238.51	0.41	0.00	0.00	0.23	0.00	0.38	0.00

@@ -1,0 +1,14 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: tat_3MI9_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+tat_3MI9_N_1_0.pdb	8.06	1.41	0.04	1.16	0.01	-0.84	2.08	6.46	-0.68	-1.40	0.00	0.00	0.00	-0.19	-2.79	-0.00	0.00	0.00	-0.00	-0.00	-0.00	0.00
+tat_3MI9_N_1_1.pdb	6.85	0.86	-0.50	1.32	0.04	-1.07	2.29	6.26	-0.68	-1.44	0.00	0.00	0.00	-0.24	-2.75	0.00	0.00	0.00	-0.00	-0.00	0.00	0.00
+tat_3MI9_N_1_2.pdb	7.90	1.41	0.03	1.18	0.00	-0.73	2.08	6.23	-0.70	-1.40	0.00	0.00	0.00	-0.22	-2.79	0.00	0.00	0.00	0.00	0.00	-0.00	0.00
+tat_3MI9_N_1_3.pdb	6.95	0.75	-0.59	1.32	0.06	-1.05	2.30	6.52	-0.63	-1.43	0.00	0.00	0.00	-0.30	-2.67	-0.00	0.00	0.00	-0.00	-0.00	-0.00	0.00
+tat_3MI9_N_1_4.pdb	8.19	1.41	0.01	1.14	-0.00	-0.75	2.04	6.62	-0.70	-1.40	0.00	0.00	0.00	-0.20	-2.79	-0.00	0.00	0.00	-0.00	-0.00	-0.00	0.00

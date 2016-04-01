@@ -1,0 +1,19 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: protease_Dimer_3IXO_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+protease_Dimer_3IXO_N_1_0.pdb	41.17	-123.90	-48.87	-229.19	-7.77	275.43	-323.94	67.31	123.10	300.91	0.00	0.00	0.00	8.45	61.84	0.00	0.00	0.00	-0.66	0.00	0.30	0.00
+protease_Dimer_3IXO_N_1_1.pdb	41.19	-124.73	-49.61	-229.85	-8.15	277.58	-324.53	67.43	123.68	301.35	0.00	0.00	0.00	8.31	61.69	0.00	0.00	0.00	-0.89	0.00	0.61	0.00
+protease_Dimer_3IXO_N_1_2.pdb	34.35	-123.75	-48.76	-229.94	-7.89	276.94	-324.65	59.83	123.34	301.45	0.00	0.00	0.00	8.12	62.39	0.00	0.00	0.00	-0.66	0.00	0.31	0.00
+protease_Dimer_3IXO_N_1_3.pdb	35.40	-124.05	-49.08	-230.48	-7.90	277.44	-325.36	61.91	123.64	301.77	0.00	0.00	0.00	7.86	62.53	0.00	0.00	0.00	-0.66	0.00	0.30	0.00
+protease_Dimer_3IXO_N_1_4.pdb	39.99	-124.39	-49.32	-229.85	-7.89	276.98	-324.54	65.92	123.64	301.35	0.00	0.00	0.00	8.35	61.76	0.00	0.00	0.00	-0.66	0.00	0.39	0.00
+WT_protease_Dimer_3IXO_N_1_0.pdb	-14.88	-123.66	-48.87	-225.08	-7.77	270.69	-318.48	10.32	121.30	299.97	0.00	0.00	0.00	7.07	61.52	0.00	0.00	0.00	-0.66	0.00	0.30	0.00
+WT_protease_Dimer_3IXO_N_1_1.pdb	-14.57	-123.59	-48.80	-225.22	-7.77	271.01	-318.59	10.43	121.38	300.00	0.00	0.00	0.00	6.94	61.57	0.00	0.00	0.00	-0.66	0.00	0.30	0.00
+WT_protease_Dimer_3IXO_N_1_2.pdb	-14.58	-123.59	-48.80	-225.22	-7.77	271.00	-318.59	10.43	121.38	300.00	0.00	0.00	0.00	6.94	61.57	0.00	0.00	0.00	-0.66	0.00	0.30	0.00
+WT_protease_Dimer_3IXO_N_1_3.pdb	-14.34	-123.59	-48.80	-225.22	-7.77	271.24	-318.59	10.43	121.38	300.00	0.00	0.00	0.00	6.94	61.57	0.00	0.00	0.00	-0.66	0.00	0.30	0.00
+WT_protease_Dimer_3IXO_N_1_4.pdb	-14.37	-123.59	-48.80	-225.22	-7.77	271.21	-318.59	10.43	121.38	300.00	0.00	0.00	0.00	6.94	61.57	0.00	0.00	0.00	-0.66	0.00	0.30	0.00

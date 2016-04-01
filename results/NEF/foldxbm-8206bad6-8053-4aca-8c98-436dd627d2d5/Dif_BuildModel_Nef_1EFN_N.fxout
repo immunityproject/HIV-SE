@@ -1,0 +1,14 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: Nef_1EFN_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+Nef_1EFN_N_1_0.pdb	49.26	-0.43	0.09	-4.13	0.23	3.51	-6.66	51.59	1.95	2.69	0.00	0.00	0.00	0.32	1.59	0.10	0.00	0.00	-0.01	0.00	0.01	0.00
+Nef_1EFN_N_1_1.pdb	48.84	-0.42	0.08	-4.05	0.22	3.36	-6.54	50.97	1.94	2.71	0.00	0.00	0.00	0.47	1.56	0.10	0.00	0.00	-0.01	0.00	0.01	0.00
+Nef_1EFN_N_1_2.pdb	44.68	0.83	1.00	-4.92	0.10	4.86	-7.50	44.00	1.66	2.86	0.00	0.00	0.00	1.72	1.55	0.05	0.00	0.00	-0.01	0.00	0.00	0.00
+Nef_1EFN_N_1_3.pdb	50.17	0.33	0.55	-3.90	0.22	3.30	-6.40	50.15	1.75	2.65	0.00	0.00	0.00	1.41	1.41	0.11	0.00	0.00	-0.00	0.00	0.01	0.00
+Nef_1EFN_N_1_4.pdb	52.77	0.76	1.11	-6.13	0.06	6.04	-9.07	52.87	1.62	3.08	0.00	0.00	0.00	2.38	1.75	0.05	0.00	0.00	0.00	0.00	-0.00	0.00

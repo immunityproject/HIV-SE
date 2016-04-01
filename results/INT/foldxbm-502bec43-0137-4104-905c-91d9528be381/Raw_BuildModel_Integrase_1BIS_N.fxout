@@ -1,0 +1,19 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: Integrase_1BIS_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+Integrase_1BIS_N_1_0.pdb	-35.70	-218.79	-76.53	-350.78	-16.05	438.94	-468.92	18.40	179.27	447.45	0.00	0.00	0.00	9.01	209.81	1.32	0.00	0.00	-0.06	0.00	1.04	0.00
+Integrase_1BIS_N_1_1.pdb	-37.79	-216.57	-74.87	-349.85	-15.82	437.83	-467.75	13.77	177.46	446.51	0.00	0.00	0.00	9.11	209.54	1.41	0.00	0.00	-0.08	0.00	1.04	0.00
+Integrase_1BIS_N_1_2.pdb	-40.37	-218.78	-76.76	-350.77	-16.27	438.96	-468.83	13.86	179.45	447.39	0.00	0.00	0.00	9.08	209.81	1.32	0.00	0.00	-0.06	0.00	1.04	0.00
+Integrase_1BIS_N_1_3.pdb	-39.91	-218.79	-77.14	-350.80	-16.20	439.06	-468.88	14.45	179.59	447.51	0.00	0.00	0.00	8.97	209.73	1.32	0.00	0.00	-0.06	0.00	1.04	0.00
+Integrase_1BIS_N_1_4.pdb	-35.62	-218.03	-76.39	-350.52	-15.95	438.66	-468.49	17.73	178.71	447.06	0.00	0.00	0.00	9.25	209.61	1.38	0.00	0.00	-0.07	0.00	1.04	0.00
+WT_Integrase_1BIS_N_1_0.pdb	-39.65	-217.64	-75.91	-347.20	-15.82	435.80	-463.57	9.35	177.25	446.80	0.00	0.00	0.00	8.97	209.00	1.32	0.00	0.00	-0.06	0.00	1.04	0.00
+WT_Integrase_1BIS_N_1_1.pdb	-39.46	-217.64	-75.91	-347.21	-15.82	436.03	-463.58	9.35	177.25	446.81	0.00	0.00	0.00	8.97	209.01	1.32	0.00	0.00	-0.06	0.00	1.04	0.00
+WT_Integrase_1BIS_N_1_2.pdb	-39.96	-218.23	-75.37	-347.59	-15.82	436.29	-464.04	9.36	177.29	446.68	0.00	0.00	0.00	9.16	209.19	1.32	0.00	0.00	-0.06	0.00	1.04	0.00
+WT_Integrase_1BIS_N_1_3.pdb	-39.51	-217.64	-75.91	-347.18	-15.82	435.92	-463.53	9.35	177.25	446.80	0.00	0.00	0.00	8.96	209.01	1.32	0.00	0.00	-0.06	0.00	1.04	0.00
+WT_Integrase_1BIS_N_1_4.pdb	-39.36	-217.56	-75.81	-347.65	-15.83	436.62	-464.07	9.39	177.52	446.80	0.00	0.00	0.00	8.96	209.08	1.28	0.00	0.00	-0.05	0.00	1.04	0.00

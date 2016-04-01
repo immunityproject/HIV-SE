@@ -1,0 +1,19 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: Rev_3LPH_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+Rev_3LPH_N_1_0.pdb	-29.57	-223.45	-92.31	-256.68	-3.75	356.86	-310.31	9.18	165.87	313.90	0.00	0.00	0.00	12.14	239.09	-1.52	0.00	0.00	0.12	0.00	0.38	0.00
+Rev_3LPH_N_1_1.pdb	-29.73	-224.58	-92.89	-256.56	-3.54	356.76	-309.96	9.53	166.37	314.14	0.00	0.00	0.00	12.00	239.08	-1.57	0.00	0.00	0.21	0.00	0.38	0.00
+Rev_3LPH_N_1_2.pdb	-29.30	-223.19	-91.05	-255.82	-3.68	354.41	-309.46	9.15	165.03	314.02	0.00	0.00	0.00	11.37	238.80	-0.70	0.00	0.00	0.25	0.00	0.38	0.00
+Rev_3LPH_N_1_3.pdb	-28.55	-223.71	-91.02	-256.26	-3.51	355.92	-309.89	9.10	165.45	313.96	0.00	0.00	0.00	11.91	238.97	-1.10	0.00	0.00	0.22	0.00	0.38	0.00
+Rev_3LPH_N_1_4.pdb	-28.93	-223.45	-90.38	-256.24	-3.80	355.61	-309.84	9.29	165.13	313.85	0.00	0.00	0.00	11.47	238.95	-1.09	0.00	0.00	0.12	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_0.pdb	-37.46	-222.89	-94.32	-259.54	-5.53	358.00	-313.94	7.85	167.86	314.28	0.00	0.00	0.00	10.43	238.61	-0.18	0.00	0.00	0.14	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_1.pdb	-37.05	-225.18	-94.76	-259.87	-4.84	360.01	-313.49	8.26	168.45	314.62	0.00	0.00	0.00	10.73	239.05	-1.57	0.00	0.00	0.21	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_2.pdb	-37.39	-223.29	-94.67	-259.20	-5.26	357.58	-313.36	7.81	168.01	314.45	0.00	0.00	0.00	10.16	238.57	-0.23	0.00	0.00	0.24	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_3.pdb	-36.89	-223.85	-94.72	-259.42	-5.18	358.31	-313.56	7.79	168.37	314.37	0.00	0.00	0.00	10.59	238.75	-0.24	0.00	0.00	0.27	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_4.pdb	-37.08	-223.14	-94.55	-259.46	-5.53	358.27	-313.57	7.81	168.06	314.29	0.00	0.00	0.00	10.39	238.64	-0.18	0.00	0.00	0.16	0.00	0.38	0.00

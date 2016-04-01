@@ -1,0 +1,18 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: Rev_3LPH_N.pdb
+Output type: BuildModel
+BuildModel Results Files
+Residue to Mutate ARGA44 has residue index 35
+Residue to Mutate ARGB44 has residue index 97
+Residue to Mutate ARGC44 has residue index 152
+Residue to Mutate ARGD44 has residue index 209
+
+The Stability of each mutant and their relative wild-type are in Raw_BuildModel_Rev_3LPH_N.fxout
+The differences in stability (DDG=DGmutant-DGwt) of each mutant are in Dif_BuildModel_Rev_3LPH_N.fxout
+The average of the differences in stability (DDG=DGmutant-DGwt) of each mutant for the 5 runs are in Average_BuildModel_Rev_3LPH_N.fxout
+The list of all generated pdbs is in PdbList_BuildModel_Rev_3LPH_N.fxout

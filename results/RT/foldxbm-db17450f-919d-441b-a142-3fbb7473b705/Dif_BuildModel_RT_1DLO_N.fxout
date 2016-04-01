@@ -1,0 +1,14 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: RT_1DLO_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+RT_1DLO_N_1_0.pdb	8.55	-1.13	-1.24	-2.54	-0.05	3.28	-3.63	11.78	1.19	-0.62	0.00	0.00	0.00	1.53	0.30	-0.00	0.00	0.00	-0.00	0.00	-0.01	0.00
+RT_1DLO_N_1_1.pdb	5.50	-1.17	-1.27	-2.66	-0.05	3.36	-3.78	9.92	1.23	-0.58	0.00	0.00	0.00	0.52	0.35	-0.00	0.00	0.00	-0.00	0.00	-0.01	0.00
+RT_1DLO_N_1_2.pdb	7.65	-1.15	-1.22	-2.63	-0.03	3.45	-3.67	11.75	1.24	-0.68	0.00	0.00	0.00	0.60	0.35	-0.00	0.00	0.00	0.00	0.00	-0.01	0.00
+RT_1DLO_N_1_3.pdb	7.54	-1.42	-1.49	-2.61	-0.14	3.78	-3.45	11.52	1.44	-0.64	0.00	0.00	0.00	0.55	0.37	0.00	0.00	0.00	0.02	0.00	-0.01	0.00
+RT_1DLO_N_1_4.pdb	5.93	-1.19	-1.26	-2.65	-0.04	3.45	-3.73	10.07	1.23	-0.68	0.00	0.00	0.00	0.73	0.35	-0.00	0.00	0.00	0.00	0.00	-0.01	0.00

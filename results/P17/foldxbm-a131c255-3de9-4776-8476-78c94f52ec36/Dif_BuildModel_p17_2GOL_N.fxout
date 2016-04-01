@@ -1,0 +1,14 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: p17_2GOL_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+p17_2GOL_N_1_0.pdb	5.86	0.73	0.51	3.10	0.00	-1.93	4.94	-0.03	-1.00	-0.45	0.00	0.00	0.00	-0.02	-0.49	-0.00	0.00	0.00	0.00	0.00	-0.00	0.00
+p17_2GOL_N_1_1.pdb	5.98	0.75	0.53	3.08	0.00	-1.79	4.94	-0.06	-1.00	-0.45	0.00	0.00	0.00	-0.02	-0.41	0.00	0.00	0.00	0.00	0.00	-0.00	0.00
+p17_2GOL_N_1_2.pdb	6.00	0.74	0.51	3.07	0.00	-1.79	4.97	-0.10	-0.99	-0.45	0.00	0.00	0.00	0.04	-0.41	0.00	0.00	0.00	0.00	0.00	-0.00	0.00
+p17_2GOL_N_1_3.pdb	5.97	0.72	0.50	3.09	0.00	-1.87	4.94	-0.03	-1.00	-0.45	0.00	0.00	0.00	0.05	-0.49	0.00	0.00	0.00	0.00	0.00	-0.00	0.00
+p17_2GOL_N_1_4.pdb	6.08	0.75	0.52	3.08	-0.00	-1.69	4.97	-0.11	-0.99	-0.45	0.00	0.00	0.00	-0.02	-0.41	0.00	0.00	0.00	0.00	0.00	0.00	0.00

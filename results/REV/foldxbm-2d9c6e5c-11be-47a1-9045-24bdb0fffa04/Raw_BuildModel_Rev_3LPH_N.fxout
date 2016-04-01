@@ -1,0 +1,19 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: Rev_3LPH_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+Rev_3LPH_N_1_0.pdb	-26.56	-221.42	-96.51	-259.34	-12.14	365.62	-311.33	8.91	171.67	317.43	0.00	0.00	0.00	10.11	238.25	0.18	0.00	0.00	-0.10	0.00	0.38	0.00
+Rev_3LPH_N_1_1.pdb	-26.08	-220.52	-95.47	-259.64	-13.42	366.82	-311.61	8.80	171.14	317.41	0.00	0.00	0.00	10.02	237.95	0.08	0.00	0.00	-0.06	0.00	0.38	0.00
+Rev_3LPH_N_1_2.pdb	-26.17	-221.23	-95.85	-259.17	-11.68	365.31	-311.33	8.81	171.05	317.38	0.00	0.00	0.00	10.07	238.12	0.20	0.00	0.00	-0.12	0.00	0.38	0.00
+Rev_3LPH_N_1_3.pdb	-25.36	-220.51	-95.76	-259.47	-12.35	366.32	-311.57	9.01	170.96	317.51	0.00	0.00	0.00	10.12	237.92	0.04	0.00	0.00	-0.02	0.00	0.38	0.00
+Rev_3LPH_N_1_4.pdb	-25.84	-221.46	-96.98	-259.59	-12.69	367.24	-311.51	9.73	171.60	317.37	0.00	0.00	0.00	9.97	238.26	0.17	0.00	0.00	-0.06	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_0.pdb	-31.47	-223.18	-92.32	-258.81	-5.12	359.44	-312.87	8.70	167.64	314.36	0.00	0.00	0.00	9.83	238.75	0.21	0.00	0.00	0.27	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_1.pdb	-31.63	-222.30	-94.47	-258.80	-5.05	359.68	-312.65	8.71	168.13	314.33	0.00	0.00	0.00	9.83	238.52	0.20	0.00	0.00	0.38	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_2.pdb	-31.19	-222.43	-93.34	-258.96	-4.99	360.01	-312.92	8.69	167.69	314.36	0.00	0.00	0.00	9.84	238.53	0.19	0.00	0.00	0.28	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_3.pdb	-30.75	-222.43	-93.33	-258.96	-4.99	360.43	-312.92	8.71	167.69	314.36	0.00	0.00	0.00	9.84	238.54	0.19	0.00	0.00	0.28	0.00	0.38	0.00
+WT_Rev_3LPH_N_1_4.pdb	-30.79	-222.43	-93.33	-258.96	-4.99	360.38	-312.92	8.72	167.69	314.36	0.00	0.00	0.00	9.84	238.53	0.19	0.00	0.00	0.28	0.00	0.38	0.00

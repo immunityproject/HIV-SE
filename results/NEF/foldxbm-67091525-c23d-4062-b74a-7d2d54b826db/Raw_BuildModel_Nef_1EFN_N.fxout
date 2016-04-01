@@ -1,0 +1,19 @@
+FoldX 3.0 Beta 4 (2010)
+by the FoldX Consortium 
+Jesper Borg, Frederic Rousseau, Joost Schymkowitz,
+Luis Serrano and Francois Stricher
+------------------------------------------------------
+
+PDB file analysed: Nef_1EFN_N.pdb
+Output type: BuildModel
+Pdb	total energy	Backbone Hbond	Sidechain Hbond	Van der Waals	Electrostatics	Solvation Polar	Solvation Hydrophobic	Van der Waals clashes	entropy sidechain	entropy mainchain	sloop_entropy	mloop_entropy	cis_bond	torsional clash	backbone clash	DNA stack clash	helix dipole	water bridge	disulfide	electrostatic kon	partial covalent bonds	energy Ionisation	Entropy Complex
+Nef_1EFN_N_1_0.pdb	-29.59	-207.11	-98.90	-395.72	-9.47	486.58	-527.85	20.89	207.55	476.39	0.00	0.00	2.25	14.24	199.46	-0.86	0.00	0.00	0.23	0.00	2.21	0.00
+Nef_1EFN_N_1_1.pdb	-29.12	-207.08	-98.61	-395.39	-8.83	486.02	-527.54	20.71	206.89	476.37	0.00	0.00	2.25	14.31	199.68	-0.89	0.00	0.00	0.45	0.00	2.21	0.00
+Nef_1EFN_N_1_2.pdb	-28.90	-207.10	-98.80	-395.23	-8.91	486.03	-527.41	21.01	206.85	476.35	0.00	0.00	2.25	14.35	199.60	-0.92	0.00	0.00	0.44	0.00	2.21	0.00
+Nef_1EFN_N_1_3.pdb	-29.25	-207.07	-99.95	-395.13	-9.31	485.94	-527.19	20.86	208.16	476.31	0.00	0.00	2.25	14.33	199.49	-0.95	0.00	0.00	0.29	0.00	2.21	0.00
+Nef_1EFN_N_1_4.pdb	-29.38	-206.97	-98.78	-395.44	-9.10	486.63	-527.64	20.42	207.07	476.33	0.00	0.00	2.25	14.16	199.60	-0.92	0.00	0.00	0.39	0.00	2.21	0.00
+WT_Nef_1EFN_N_1_0.pdb	-40.00	-209.23	-102.37	-398.81	-14.69	491.79	-529.62	20.92	209.38	476.38	0.00	0.00	2.25	14.51	199.57	-1.08	0.00	0.00	-1.64	0.00	2.21	0.00
+WT_Nef_1EFN_N_1_1.pdb	-40.06	-209.33	-102.23	-398.75	-14.21	491.52	-529.64	20.77	208.92	476.36	0.00	0.00	2.25	14.63	199.73	-1.03	0.00	0.00	-1.53	0.00	2.21	0.00
+WT_Nef_1EFN_N_1_2.pdb	-39.47	-209.28	-103.49	-398.80	-14.54	492.50	-529.59	20.79	210.27	476.37	0.00	0.00	2.25	14.54	199.58	-1.10	0.00	0.00	-1.59	0.00	2.21	0.00
+WT_Nef_1EFN_N_1_3.pdb	-39.83	-209.29	-103.64	-398.68	-14.40	491.92	-529.47	20.80	210.28	476.31	0.00	0.00	2.25	14.52	199.56	-1.08	0.00	0.00	-1.57	0.00	2.21	0.00
+WT_Nef_1EFN_N_1_4.pdb	-39.85	-209.18	-102.31	-399.04	-14.29	492.53	-529.91	20.47	209.18	476.36	0.00	0.00	2.25	14.49	199.71	-1.07	0.00	0.00	-1.55	0.00	2.21	0.00
